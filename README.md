@@ -21,12 +21,20 @@ Here we are going to learn how to create API using NodeJS
 
 ---
 
-TYPE
--> GET : Always return some value from sever
--> POST :
--> PUT
--> DELETE
--> PATCH
--> HEAD
+## TYPE
+
+### -> GET :
+
+Always return some value from sever
+
+### -> POST :
+
+### -> PUT
+
+### -> DELETE
+
+### -> PATCH
+
+### -> HEAD
 
 ---
