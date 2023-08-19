@@ -29,7 +29,11 @@ Always return some value from sever
 
 ### -> POST :
 
-### -> PUT
+Post is use to write in BD
+
+### -> PUT :
+
+Put is use to upate any entry in DB. It will replace all in
 
 ### -> DELETE
 
@@ -38,3 +42,21 @@ Always return some value from sever
 ### -> HEAD
 
 ---
+
+## What is Back-end
+
+### Server Side Programming
+
+### APIs
+
+### Database
+
+### Infrastructure and Maintainace
+
+## 2XX
+
+## 3XX
+
+## 4XX
+
+## 5XX
